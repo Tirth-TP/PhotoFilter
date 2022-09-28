@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">image-processing</string>
+  <string name="save">Save</string>
+  <string name="camera">Camera</string>
+</resources>
